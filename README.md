@@ -1,1 +1,1 @@
-# https://annaverst.github.io/IPhone-13/
+# https://ldubrovina.github.io/IPhone13
