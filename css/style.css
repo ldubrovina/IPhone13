@@ -328,6 +328,8 @@ h1, h2, h3, p, ul {
     font-size: 18px;
     line-height: 21px;
     margin-bottom: 60px;
+    overflow-y:scroll;
+    scroll-behavior: smooth;
 }
 
 .card-details__button_buy {
